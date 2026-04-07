@@ -47,4 +47,3 @@ Mas o Gmail implementa IMAP de modo particular. A configuração padrão do Gmai
 Se após o expurgo o seu espaço em disco continuar baixo ou inalterado, é necessário acessar o Gmail pela web (site), ir em **"Lixeira"** e clicar no botão **"Esvaziar a lixeira agora"**.
 
 ---
-*Escrito e documentado para facilitar rotinas de limpezas pesadas.*
